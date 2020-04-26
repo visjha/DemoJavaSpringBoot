@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Vishal
+Build-Jdk: 14.0.1
+Implementation-Title: Java Course
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-project
+Created-By: Maven Integration for Eclipse
+
